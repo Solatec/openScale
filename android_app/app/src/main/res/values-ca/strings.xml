@@ -42,7 +42,7 @@
         <item quantity="one">%d dia</item>
         <item quantity="other">%d dies</item>
     </plurals>
-    <string name="label_measures">mesures</string>
+    <string name="label_measures">Mesures</string>
     <string name="label_last_week">Darrers 7 dies</string>
     <string name="label_last_month">Darrers 30 dies</string>
     <string name="label_weight_difference">Diferència de pes</string>
@@ -62,10 +62,10 @@
     <string name="label_goal_date">Data objectiu</string>
 
 
-    <string name="label_title_user">usuari</string>
-    <string name="label_title_last_measurement">darrera mesura</string>
-    <string name="label_title_goal">objectiu</string>
-    <string name="label_title_statistics">estadístiques</string>
+    <string name="label_title_user">Usuari</string>
+    <string name="label_title_last_measurement">Darrera mesura</string>
+    <string name="label_title_goal">Objectiu</string>
+    <string name="label_title_statistics">Estadístiques</string>
 
     <string name="label_import">Importar</string>
     <string name="label_export">Exportar</string>
@@ -92,11 +92,11 @@
     <string name="info_enter_comment">Comentari opcional</string>
     <string name="info_enter_initial_weight">Pes inicial en la seua unitat de mesura</string>
     <string name="info_enter_goal_weight">Pes objectiu en la seua unitat de mesura</string>
-    <string name="info_is_visible">està visible</string>
-    <string name="info_is_not_visible">no està visible</string>
-    <string name="info_is_enable">està activat</string>
-    <string name="info_is_not_enable">està desactivat</string>
-    <string name="info_is_not_available">no està disponible</string>
+    <string name="info_is_visible">Està visible</string>
+    <string name="info_is_not_visible">No està visible</string>
+    <string name="info_is_enable">Està activat</string>
+    <string name="info_is_not_enable">Està desactivat</string>
+    <string name="info_is_not_available">No està disponible</string>
     <string name="info_delete_bluetooth_data">Eliminar totes les dades de Bluetooth</string>
     <string name="info_delete_bluetooth_data_success">Les dades de Bluetooth s\'han eliminat</string>
     <string name="info_bluetooth_try_connection">Intentant connectar a</string>
@@ -141,7 +141,7 @@
     <string name="label_estimate_water_formula">Fórmula d\'aigua corporal</string>
     <string name="label_estimate_lbw_formula">Fórmula de massa corporal magra</string>
     <string name="label_estimate_fat_formula">Fórmula de greix corporal</string>
-    <string name="label_automatic">automàtic</string>
+    <string name="label_automatic">Automàtic</string>
 
     <string name="label_reminder">Recordatori</string>
     <string name="label_reminder_weekdays">Dies de la setmana</string>
@@ -164,7 +164,7 @@
     <string name="Friday">Divendres</string>
     <string name="Saturday">Dissabte</string>
     <string name="Sunday">Diumenge</string>
-    <string name="label_bt_device_no_support">dispositiu no suportat</string>
+    <string name="label_bt_device_no_support">Dispositiu no suportat</string>
     <string name="label_exportBackup">Exportar còpia de seguretat</string>
     <string name="label_importBackup">Importar còpia de seguretat</string>
     <string name="label_backup">Còpia de seguretat</string>
@@ -181,7 +181,7 @@
     <string name="error_max_scale_users">S\'ha assolit el nombre màxim d\'usuaris simultanis de la bàscula.</string>
     <string name="info_step_on_scale">Si us plau, pose\'s descalç en la bàscula per prendre mesures de referència.</string>
     <string name="info_measuring">Mesura del pes: %.2f</string>
-    <string name="open_drawer">obri</string>
-    <string name="close_drawer">tanca</string>
+    <string name="open_drawer">Obre</string>
+    <string name="close_drawer">Tanca</string>
 
 </resources>
